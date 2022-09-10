@@ -5,6 +5,8 @@ Power BI virtual internship in PWC Powered by  __[theforage](https://theforage.c
 
 
 ### task-1:
+Problem: What is the rate of customer satisfaction?, Who is the agent who has the heughest rate?, What affects the rate of customer satisfaction?
+
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 
 Possible KPIs include (to get you started, but not limited to):
@@ -17,6 +19,8 @@ Possible KPIs include (to get you started, but not limited to):
 
 
 ### task-2:
+Problem: Why customers churn from the telecom company and what are the factors affecting that?
+
 Your colleague, the engagement partner, asks you to do the following tasks:
 
 - Define proper KPIs
